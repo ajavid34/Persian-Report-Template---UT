@@ -3,11 +3,6 @@
 Tehran Report
 ===
 
-[![pipeline status](https://gitlab.com/hadi_sfr/tehranReport/badges/master/pipeline.svg)](https://gitlab.com/hadi_sfr/tehranReport/commits/master)
-
-a LaTeX class for reports in [University of Tehran](http://ut.ac.ir/)  
-based on [report](https://ctan.org/pkg/report) LaTeX class
-
 ## Usage
 
 See `example.tex` for a working example.
